@@ -2,7 +2,7 @@
 
 Replace the image files listed below with real church photos. Use these exact filenames to avoid editing the CSS:
 
-- `hero.jpg` — homepage hero/banner (recommended 2000 × 1200 px or larger)
+- `hero.jpg` — homepage hero/banner (recommended 2000 × 1200 px or larger).
 - `ministry-children.jpg` — children and families ministry
 - `ministry-community.jpg` — community groups
 - `ministry-outreach.jpg` — outreach and service
